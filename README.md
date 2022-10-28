@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adhamelgindy
 - 👀 I’m interested in Building new frontend Projects
 - 🌱 I’m currently learning Java and JS 
-- 💞️ I’m looking to collaborate on a Machine learning Project
 - 📫 How to reach me adham.elgindy@gmail.com
 
 <!---
